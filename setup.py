@@ -11,7 +11,7 @@ setuptools.setup(
     description="A simple and default open telemetry log formatter",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dsaouda/pytelemetry",
+    url="https://github.com/diego-plug/pytelemetry",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
